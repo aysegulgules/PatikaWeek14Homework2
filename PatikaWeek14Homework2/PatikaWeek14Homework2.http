@@ -1,0 +1,6 @@
+@PatikaWeek14Homework2_HostAddress = http://localhost:5270
+
+GET {{PatikaWeek14Homework2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
